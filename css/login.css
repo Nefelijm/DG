@@ -1,0 +1,74 @@
+*{
+margin:0;
+padding:0;
+box-sizing: border-box;
+}
+.background{  
+background-image: url('../assets/images/fondo.gif');
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+  height: 100vh;
+}
+.deglu{
+background-color:rgb(132, 175, 155); 
+}
+.login-background{
+    border: 3px solid;
+    box-shadow: 10px 10px white, -10px -10px rgb(132, 175, 155), 0px 0px 40px 10px rgb(243, 94, 121); 
+    width: 300px;  
+    height: 430px; 
+    margin-top: 3%;
+    color: white;
+    font-size: 20px;
+}
+#textEmail,#textPassword{
+ font-size: 20px;
+ height: 60px;
+ margin-top: 3%; 
+ color:white;
+}
+#msj1,#msj2{
+  background-color: rgb(184, 236, 219);
+  color: black;
+}
+.margin{
+margin:10%;
+}
+.logout{
+margin-top: 10%;
+width:250px;
+height: 50px; 
+margin-left: 10%;
+}
+.background-btn{
+  background-color: rgb(22, 170, 66);
+  color: black;
+  margin-left: 25%; 
+  width: 152px; 
+ 
+}
+.nav{
+ background-color:  #8887b1;
+ height:80px;
+}
+.logo{
+ width: 75px;
+ margin-left: 50%;
+ margin-top: 2%;
+ border-radius: 50%;
+}
+.btn{
+ margin-left: 0%;
+}
+.btn-button {
+ background-color:#ca8799;
+ margin-top:13%;
+ margin-left:30%;
+ font-size: 12px;
+ height: 42px;
+ border-radius: 5%; 
+}
+.nav-movile{
+background-color: rgb(132, 175, 155);
+}
