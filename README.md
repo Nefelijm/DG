@@ -17,6 +17,8 @@ INTEGRANTES:
         .Ser mobile friendly
         .Etc.
 
+**PROYECTO INICIAL
+[deglu](https://github.com/Nefelijm/deGl-);
 
 1. A continuación se muestra la agenda dónde se hizo la planificación para poder realizar el proyecto
 
