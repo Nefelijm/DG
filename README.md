@@ -17,7 +17,11 @@ INTEGRANTES:
         .Ser mobile friendly
         .Etc.
 
+Enlazando Repositorio anterior
 
+[haz click](https://www.canva.com/design/DACsEGjMckk/y4nRnK1IkqY--aqZvvX0lw/view?website "REPOSITORIO DEGLU").
+
+______________________________________________________________________________________________
 1. A continuación se muestra la agenda dónde se hizo la planificación para poder realizar el proyecto
 
 [AGENDA](https://www.canva.com/design/DACsEGjMckk/y4nRnK1IkqY--aqZvvX0lw/view?website "PLANIFICACION").
