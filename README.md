@@ -17,7 +17,7 @@ INTEGRANTES:
         .Ser mobile friendly
         .Etc.
 
-Enlazando Repositorio anterior
+## Enlazando Repositorio anterior
 
 [haz click](https://github.com/Nefelijm/deGl- "REPOSITORIO DEGLU").
 
@@ -67,7 +67,7 @@ ________________________________________________________________________
 ![recursos](assets/images/img7.png);
 ___________________________________________________________________________
 8.
-![recursos](assets/images/img8.png);
+![recursos](assets/images/IMG8.png);
 __________________________________________________________________________
 9.
 ![recursos](assets/images/img9.png);
