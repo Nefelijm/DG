@@ -1,7 +1,7 @@
 *PRODUCTO FINAL: "RED SOCIAL (DEGLÚ)"
 
 INTEGRANTES:
-            NEFELI JOÑORUCO
+            NEFELI JOÑORUCO &&
             MARÍA TERESA RUIZ
 
 **Objetivos
@@ -17,9 +17,11 @@ INTEGRANTES:
         .Ser mobile friendly
         .Etc.
 
-**PROYECTO INICIAL
+**Enlazando el Repositorio anterios...teniendo en cuenta que se trabajo en ramas 
+
 [deglu](https://github.com/Nefelijm/deGl-);
 
+______________________________________________________________________________________________
 1. A continuación se muestra la agenda dónde se hizo la planificación para poder realizar el proyecto
 
 [AGENDA](https://www.canva.com/design/DACsEGjMckk/y4nRnK1IkqY--aqZvvX0lw/view?website "PLANIFICACION").
@@ -71,6 +73,16 @@ __________________________________________________________________________
 ![recursos](assets/images/img9.png);
 ____________________________________________________________________________
 10.
+![recursos](assets/images/img10.png);
+____________________________________________________________________________
+11.
+![recursos](assets/images/img11.png);
+____________________________________________________________________________
+12.
+![recursos](assets/images/img12.png);
+____________________________________________________________________________
+
+
 
 
 
