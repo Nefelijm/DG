@@ -19,7 +19,7 @@ INTEGRANTES:
 
 Enlazando Repositorio anterior
 
-[haz click](https://www.canva.com/design/DACsEGjMckk/y4nRnK1IkqY--aqZvvX0lw/view?website "REPOSITORIO DEGLU").
+[haz click](https://github.com/Nefelijm/deGl- "REPOSITORIO DEGLU").
 
 ______________________________________________________________________________________________
 1. A continuación se muestra la agenda dónde se hizo la planificación para poder realizar el proyecto
@@ -73,6 +73,15 @@ __________________________________________________________________________
 ![recursos](assets/images/img9.png);
 ____________________________________________________________________________
 10.
+![recursos](assets/images/img10.png);
+____________________________________________________________________________
+11.
+![recursos](assets/images/img11.png);
+____________________________________________________________________________
+12.
+![recursos](assets/images/img12.png);
+____________________________________________________________________________
+
 
 
 
